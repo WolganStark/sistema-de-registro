@@ -4,4 +4,4 @@
 
 - Para ejecutar el proyecto debes poner:
 
-```npm install react```
+- ```npm install react```
